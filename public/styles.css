@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.editor-container {
+    display: flex;
+    width: 80%;
+}
+
+#markdown-editor, #markdown-preview {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    height: 500px;
+    overflow-y: auto;
+}
+
+.file-controls {
+    margin-top: 10px;
+}
+
+button {
+    margin: 0 5px;
+}

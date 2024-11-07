@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimal Markdown Previewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Minimal Markdown Previewer</h1>
+    <div class="editor-container">
+        <textarea id="markdown-editor" placeholder="Write your markdown here..."></textarea>
+        <div id="markdown-preview"></div>
+    </div>
+    <div class="file-controls">
+        <input type="text" id="file-name" placeholder="File name" />
+        <button onclick="saveFile()">Save</button>
+        <button onclick="openFile()">Open</button>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
