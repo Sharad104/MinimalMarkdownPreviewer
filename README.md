@@ -40,6 +40,5 @@ Usage
     Save your Markdown file with a Title.
     Open saved Markdown files by entering the Title.
 
-
 ## Screenshot
-![ss1](https://i.postimg.cc/QCfB0rms/Screenshot-1.jpg)
+![ss1](https://i.postimg.cc/prNSdpnc/mmp.jpg)
