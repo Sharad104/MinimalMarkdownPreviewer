@@ -42,3 +42,4 @@ Usage
 
 ## Screenshot
 ![ss1](https://i.postimg.cc/prNSdpnc/mmp.jpg)
+Type "githubpreview" in input and click on open ! as "README.md" is deleted from MongoDB.
